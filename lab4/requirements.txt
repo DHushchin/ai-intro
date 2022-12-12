@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+torch
+torchmetrics
+torchvision
+pytorch_lightning
+IPython
+netwotkx
