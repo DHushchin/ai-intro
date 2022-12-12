@@ -14,6 +14,24 @@ Based on the previous laboratory work, develop a rational intelligent agent
 4. The agent can move between intersections only on roads.
 5. The agent knows the coordinates of the starting and ending point of the route, but does not know the complete "map" of the road.
 
+
+# Lab 3
+Based on the previous laboratory work, develop a knowledge-based intelligent agent
+which is able to to save his knowledge about the environment and determine the next 
+actions based on the data stored in the knowledge base.
+Also, new information about the environment is available to the agent: on every road, 
+the agent can see road signs that inform about the turns at the intersection to which this road leads. 
+Thus, passing through an intersection, the agent knows not only which other intersections 
+it is connected to, but also their structure.
+
+
+# Lab 4
+Based on the previous laboratory work, develop a knowledge-based intelligent agent
+which is able to recognize speed limit signs and control speed using
+convolutional neural networks for recognition of MNIST digits.
+Only images with numbers 2 - 9 are used (to avoid unrealistic scenarios such as speed limits of 0 and 10 km/h).
+Therefore, accordingly, the minimum speed limit is 20 km/h, and the maximum is 90 km/h.
+
 # Installation
 
 ### Clone project
